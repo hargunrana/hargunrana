@@ -41,5 +41,5 @@ Full Stack Web, iOS, Web 3.0 Developer
 <b>My GitHub Stats:</b>
 
 <a href="http://www.github.com/hargunrana"><img src="https://activity-graph.herokuapp.com/graph?username=hargunrana&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<b>My Top Languages:</b>
+<b>My Top Languages:</b><br>
 <a href="https://github.com/hargunrana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hargunrana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
