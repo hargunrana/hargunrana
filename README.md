@@ -34,5 +34,6 @@ Full Stack Web, iOS, Web 3.0 Developer
 <p align="left"> <a href="https://www.github.com/hargunrana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hargunrana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hargunrana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hargunrana_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/hargunrana?theme=nord&font=Nova%20Round)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hargunrana&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
