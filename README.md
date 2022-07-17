@@ -2,7 +2,7 @@
 
 Hey There👋
 ==================================
-My name is Hargun Singh Rana
+My name is Hargun Singh Rana...
 ==================================
 Full Stack Web, iOS, Web 3.0 Developer
 --------------------------------------
