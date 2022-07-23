@@ -4,7 +4,7 @@ Hey There👋
 ==================================
 My name is Hargun Singh Rana...
 ==================================
-Full Stack Web, iOS, Web 3.0 Developer..
+Full Stack Web, iOS, Web 3.0 Developer.
 --------------------------------------
 
 *   🌍  I'm based in Jalandhar, Punjab, India
