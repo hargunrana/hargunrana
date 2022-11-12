@@ -4,7 +4,8 @@ Hey There👋
 ==================================
 My name is Hargun Singh Rana
 ==================================
-Full Stack Web Developer in MERN, iOS Developer in SwiftUI 
+- Full Stack Web Developer in MERN
+- iOS Developer in SwiftUI 
 --------------------------------------
 
 *   🌍  I'm based in Jalandhar, Punjab, India
